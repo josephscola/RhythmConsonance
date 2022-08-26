@@ -4,4 +4,4 @@
 format: jb-book
 root: intro
 chapters:
-- file: consonnance_rythmique_08
+- file: intro
